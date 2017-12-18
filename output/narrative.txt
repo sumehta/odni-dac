@@ -1,0 +1,61 @@
+Navy Artificial Intelligence Aids Actionable Intelligence
+
+Increasing automation and autonomy are beginning to appear in applications ranging from robots capable of independently navigating and mapping terrain to interfaces that can understand spoken commands to wireless communications systems that automatically configure themselves. 	 1257
+The goal is for people to just talk to the system and, when there is a screen available, to point to things on the screen and make that whole interaction as smooth as if you had a very intelligent [human] assistant to whom you could just tell what you need,” he says. 	 1257-84, 210.75-0.5940113718434151
+The program with Nokia builds on a previous CSAIL project called Oxygen, which sought to develop a seamless wireless environment for users. 	 1257-85
+Brooks explains that the partnership with Nokia already has developed text and voice systems and intelligent agents. 	 1257-86
+
+
+Rapid advances across the field of artificial intelligence have resulted in computers more capable of processing information as humans or animals do, allowing the machines to learn, adapt and decide for themselves. 	 14577
+From time to time, it may pop to the surface and receive some instructions, but the bulk of the time, it really has to operate autonomously, which means the system has to be able to analyze the environment and make its own decisions,” Muñoz-Avila states, adding that preprogramming systems for every possible contingency is impossible.
+
+“ 	 14577-31, 143.5-0.4883151172933438
+The sensors of vehicles have been adjusted for the environment and water in certain conditions,” he elaborates. “ 	 14577-32
+The oil spill will affect how the sensors operate, and the system, because it is submerged, may not even know about these hazardous conditions, and the sensors will send information that is not accurate.” 	 14577-33
+
+
+With the U.S. Army's Robotics Collaborative Technology Alliance and its members forging ahead on autonomous technologies, warfighters may just very well have their own "Lassie" to save the day. 	 7288
+
+
+To ease the load on weary warfighters inundated with too much information, U.S. Navy scientists are turning to artificial intelligence and cognitive reasoning technologies. 	 11964
+It turns out that many military systems’ designs tend to induce relatively high rates of post-completion errors; however, by studying how human memory works, scientists came up with a solution. “ 	 11964-18
+Using models of human memory plus modern devices like eye trackers, you can have a workstation tracking where humans are looking at the display, and if they aren’t looking at a relevant thing close to the right time, we can predict they’re going to forget that step, and we can put up a just-in-time alert.” Some people may question why the alert wouldn’t flash continually, but of course users simply would ignore it over time, he says.
+	“ 	 11964-19, 118.5-0.2975406256148352
+This was basic research for a few years, and the scientist actually built a model that turned out to be very robust and replicated it across many different tasks, many tactical interfaces of a computer and, with the same model, was able to very often predict when the person was about to make a mistake. 	 11964-20
+If they were up to, for example, a 75 percent or 80 percent chance of forgetting to do something, you could put up a just-in-time cue,” 	 11964-21
+
+
+A groundbreaking artificial intelligence (AI) project seeks to have sensors accepting and transmitting information in a method similar to the human brain. 	 2481
+Being developed by the Defense Advanced Research Projects Agency (DARPA) along with SRI International, the Systems of Neuromorphic Adaptive Plastic Scalable Electronics, or SyNAPSE, project is surpassing traditional mathematical algorithms and attempting to process information in complex environments autonomously by learning relevant and probabilistically stable features and associations automatically. 	 2481-1, 79.5-0.555833588701893
+Today, the military primarily uses AI to process large amounts of information, including videos, signals and intelligence that must be deciphered and analyzed quickly. 	 2481-2
+As developments in AI continue, these tasks may seem almost menial. 	 2481-3
+
+
+Combining computer game technology, a little show business magic and the expertise of some very clever research engineers, these training tools can be used to practice traditional warfighting techniques as well as to rehearse new skills such as conducting effective negotiation and understanding cultural influences. 	 1259
+
+
+Disruptive By Design: Four Ways Artificial Intelligence Will Change Our Lives
+
+The Defense Department and other agencies want to pick up the pace to mirror the disruptive advances of years past that led to the Internet, Global Positioning System and Siri. 	 16950
+
+
+A mere seven emerging technologies, while each powerful on their own, have the synergistic potential to disrupt life as we know it. 	 15323
+Breakthrough methodologies and new scalable data approaches based on Hadoop hold great promise to deciphering increasingly large data sets, but the ethical concerns surrounding potential compromise of privacy and data security will only grow.
+
+5. 	 15323-12, 120.25-0.6263103253733937
+Robotics: Whether controlled by humans or all on their own, robots already operate in our world. 	 15323-13
+They save lives in hospitals, replace humans doing dangerous jobs, improve farming and oil exploration, endure the hazards of outer space and now fight our wars. 	 15323-14
+
+
+For centuries, information revolutions have spurred dramatic sea changes not only defining how people gather, archive and share knowledge, but also fundamentally altering how they communicate and even think. 	 15002
+
+
+They must communicate with the same fluency and articulation expected of humans so they can explain precisely what they are doing and provide interpretations of the complex data sets upon which they increasingly rely. 	 16684
+They must communicate with the same fluency and articulation expected of humans so they can explain precisely what they are doing and provide interpretations of the complex data sets upon which they increasingly rely. 	 16684-4, 243.55792236328125-0.9842803855739737
+The solution lies in natural language generation (NLG), a technology that applies information analysis skills to large data sets that previously were unique to humans and communicates that information coherently and fluently in natural language. 	 16684-5
+This ability goes far beyond the outputs we see from programs such as Siri and Cortana. 	 16684-6
+
+
+By hacking a system from within, security experts can identify vulnerabilities and try to stay one step ahead of increasingly sophisticated cyber criminals. 	 17248
+
+
